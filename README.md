@@ -1,6 +1,6 @@
-# Number Converter
+# Number System Converter
 
-This is a Java-based Number Converter application that allows you to convert numbers between different bases such as binary, decimal, hexadecimal, and more. The application supports conversions in both directions, making it a versatile tool for various numerical conversions.
+This is a Java-based Number System Converter application that allows you to convert numbers between different bases such as binary, decimal, hexadecimal, and more. The application supports conversions in both directions, making it a versatile tool for various numerical conversions.
 
 ## Features
 
@@ -26,11 +26,11 @@ This is a Java-based Number Converter application that allows you to convert num
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/number-converter.git
+    git clone https://github.com/libertas_365/number-system-converter.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd number-converter
+    cd number-system-converter
     ```
 3. Compile the Java files:
     ```sh
